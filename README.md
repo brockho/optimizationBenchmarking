@@ -8,7 +8,7 @@
 
 
 
-Please visit our [website](http://www.optimizationBenchmarking.org/) to
+Please visit our [website](http://optimizationbenchmarking.github.io/) to
 download the latest release in form of a stand-alone executable.
 A set of slides with examples and descriptions
 how to use the system can be found [here](https://raw.githubusercontent.com/optimizationBenchmarking/optimizationBenchmarkingDocu/master/documents/evaluatorSlides/evaluatorSlides.pdf).
